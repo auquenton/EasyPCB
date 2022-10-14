@@ -1,4 +1,4 @@
-# Easy_PCB_App
+# Easy_PCB_App(Source Code)
 
 PCB Defect Detection
 
@@ -9,13 +9,12 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 * Model deployment is implemented using the OnnxRuntime framework.
 * We use PKU-Market-PCB datasets.
 
-See the Source Code 
-[Source Code](https://github.com/StudentKang/EasyPCB)
 
 ## Install
 
 * clone the project by ```git clone https://github.com/StudentKang/Easy_PCB_App.git```
-* Use it by clicking ```QT_PCB.exe```.
+* Download the Onnx weight file 
+* run mainwindow.cpp
 
 ## introduction
 

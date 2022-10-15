@@ -13,7 +13,7 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 ## Install
 
 * clone the project by ```git clone https://github.com/StudentKang/Easy_PCB_App.git```
-* Download the Onnx weight file 
+* Download the [Onnx weight file](链接：https://pan.baidu.com/s/1ToeLm6RoXNl-TRCKkDjyiA) 48q1 
 * run mainwindow.cpp
 
 ## introduction

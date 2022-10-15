@@ -16,7 +16,7 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 * Download the [Onnx weight file](https://pan.baidu.com/s/1ToeLm6RoXNl-TRCKkDjyiA)(password:48q1) 
 * run mainwindow.cpp
 
-## introduction
+## Note
 
 * The defect detection for a single PCB defect picture. Displays detection speed, defect category, and the number of corresponding defect.
 <img src="./examples/single.png" align="center" alt="single" />

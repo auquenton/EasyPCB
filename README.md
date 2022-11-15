@@ -1,4 +1,4 @@
-# Easy_PCB_App(Source Code)
+# Easy_PCB_GUI (code)
 
 PCB Defect Detection
 
